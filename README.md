@@ -9,7 +9,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/hongyu-lin-33a34a235/))
 
 ### Skills
-- Programming Language: Python, R, SQL
+- **Programming Language**: Python, R, SQL
 - **Machine Learning**
   - Frameworks: PyTorch, Scikit-Learn, Keras
   - Deep Learning: LSTM
