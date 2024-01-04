@@ -28,4 +28,4 @@
 
 ### Micro Projects
 
-- [PyTorch Model Interpretation by Shap](https://github.com/hon-gyu/pytorch-shap): An implemention of using PyTorch model in shap framework, which is a game theoretic approach to explain the output of any machine learning model. Created shap.Explanation object for PyTorch models to facilitate visualisation using a unified interface.
+- [PyTorch Model Interpretation by Shap](https://github.com/hon-gyu/pytorch-shap): An implemention of using PyTorch model in [shap](https://github.com/shap/shap) framework, which is a game theoretic approach to explain the output of any machine learning model. Created shap.Explanation object for PyTorch models to facilitate visualisation using a unified interface.
