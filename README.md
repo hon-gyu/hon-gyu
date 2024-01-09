@@ -23,6 +23,7 @@
 
 - [Semi-supervised Chameleon Clustering](https://github.com/hon-gyu/semi-supervised-chameleon-clustering): An implementation of semi-supervised Chameleon clustering, capable of integrating must-link and cannot-link constraints at various levels of hierarchy to guide the clustering process.
 - [Model Fingerprint](https://github.com/hon-gyu/model-fingerprint): A model-agnostic method to decompose predictions into linear, nonlinear and pairwise interaction effects. It can be helpful in feature selection and model interpretation.
+- [Using LSTM Model for Meta-labeling](https://github.com/hon-gyu/meta-labeling-and-lstm): An implementation that applies meta-labeling to minute-frequency stock data, utilizing LSTM as the primary model for price direction prediction, which forms the basis for a trading strategy augmented by a secondary meta-labeling layer to filter false positives and improve risk-return metrics.
 - [Semi-supervised Hedge Fund Clustering](https://github.com/hon-gyu/semi-supervised-hedge-fund-clustering): A semi-supervised clustering method utilizing tree distance for enhanced hierarchical classification of funds in fund of funds analysis.
 - [Hierarchical Tree Distance](https://github.com/hon-gyu/hierarchical-tree-distance): An implementation of the AKB tree distance, a measure designed to quantify the similarity between classes within a hierarchical label tree. Adept at emphasizing the importance of higher hierarchy errors, utilizing the taxonomy's inherent structure instead of simply flattening the hierarchy in traditional.
 
