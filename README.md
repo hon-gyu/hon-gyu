@@ -13,9 +13,10 @@
 - **Machine Learning**
   - Frameworks: PyTorch, Scikit-Learn, Keras
   - Deep Learning: LSTM
-  - Model Interpretation: Shap, LIME
+  - Model Interpretation: [Shap](https://github.com/shap/shap), [LIME](https://github.com/marcotcr/lime)
   - Clustering: Hierarchical Clustering, Chameleon Clustering, Semi-supervised Clustering
   - Ensemble Trees: Gradient-Boosted Trees, Random Forest
+  - Conformal Prediction: [MAPIE](https://github.com/scikit-learn-contrib/MAPIE)
   - Reinforcement Learning
 - Others: Git, Linux, LaTex
 
